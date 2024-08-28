@@ -38,11 +38,10 @@ h2 {
 
 
 .navbar a {
-    color: black; /* Color del texto negro */
-    background-color: red; /* Fondo rojo */
-    border: 2px solid red; /* Borde rojo de 2px */
-    padding: 10px; /* Espaciado interno para que se vea bien el fondo y el borde */
-    text-decoration: none; /* Quitar subrayado de los enlaces */
+    color: black; 
+    background-color: red; 
+    padding: 10px;
+    text-decoration: none; 
 }
 .navbar a:hover{
     cursor: pointer;
@@ -76,7 +75,7 @@ body{
 }
 
 .sidebar img {
-    max-width: 250px; /* Ajusta la imagen para que no desborde */
+    max-width: 250px; 
     height: max-content;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
